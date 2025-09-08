@@ -65,3 +65,21 @@ The program must display the following results to the screen using `printf()`, w
 ### Example
 
 #### Sample Input:
+502499100123456
+75.0
+80.0
+85.0
+70.0
+
+
+#### Sample Output:
+=== Student Evaluation Report ===
+NRP                  : 502499100123456
+Assignment Score     : 75.00
+Midterm Score        : 80.00
+Final Exam Score     : 85.00
+Attendance Percentage: 70.00%
+Primary Average      : 80.00
+Final Score          : 77.50
+Grade                : C
+Status               : Pass
